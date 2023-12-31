@@ -23,7 +23,7 @@ We will create a utility called Short URL, like bit.ly. This utility will create
 </ul>
 </p>
 
-<h4>Scope of Work<h4>
+<h4>Scope of Work :-</h4>
 <ul>
 <li>Create a concrete class which implements a short URL interface class provided. It contains all the methods that can be used to create long URL to short URL mappings.</li>
 <li>Implement a method to take a long URL as input, generate a random 9 character short URL and return it. Also maintain this mapping using a hash map for quick retrieval.</li>
@@ -35,5 +35,5 @@ We will create a utility called Short URL, like bit.ly. This utility will create
 <li>Test these methods using test cases.</li>
 </ul>
 
-<h4>Skills used</h4>
+<h4>Skills used :-</h4>
 <h5>Core Java, Interfaces, Debugging</h5>
